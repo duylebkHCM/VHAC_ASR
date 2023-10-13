@@ -1,0 +1,5 @@
+download dataset1 (30h) and dataset 2 (100h), private test 
+
+unzip three datasets
+
+expected dataset path: dataset1/training_30h/wavs/ & dataset2/training_100h/wavs & private_test/wav/

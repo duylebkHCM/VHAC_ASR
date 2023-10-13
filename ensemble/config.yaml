@@ -1,0 +1,9 @@
+model_info:
+  - ../prediction_output/CONFORMER_TRANSDUCER/results.csv
+  - ../prediction_output/BRANCHFORMER_TRANSDUCER/results.csv
+  - ../prediction_output/CONFORMER_TRANSDUCER_30H100H/results.csv
+  - ../prediction_output/BRANCHFORMER_TRANSDUCER_30H100H_moredata/results.csv
+
+output_path: combine_result/final
+
+test_path: ../dataset/raw_data/private_test/wav/

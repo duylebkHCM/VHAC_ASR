@@ -1,0 +1,9 @@
+CUDA_VISIBLE_DEVICES=0 python inference.py \
+--model_path weights/TRANSDUCER_BPE_viettel_asr_30h/190901/CKPT+2023-09-22+01-11-41+00 \
+--config_path conformer_transducer_inference.yaml \
+--test_path dataset/raw_data/dataset2/training100h/wavs/ \
+--submission_path dataset/pseudo_label/v1 \
+--start_idx 0 \
+--end_idx 300 \
+--batch_size 48 \
+--device cuda

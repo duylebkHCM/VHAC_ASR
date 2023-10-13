@@ -1,0 +1,1 @@
+python tokenizer/train.py tokenizer/config/tokenizer_1K.yaml
