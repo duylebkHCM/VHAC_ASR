@@ -1,6 +1,8 @@
 # VHAC ASR CHALLENGE
 ## Team Name: Speechless
 
+## Technical Report: https://docs.google.com/document/d/1nk80TvS5j5q32CJvPeGHV4zRxIf5GFRlkQCGhhD-U7w/edit?usp=sharing
+
 ## Inference process
 
 - Step 1: Clone this repo 
